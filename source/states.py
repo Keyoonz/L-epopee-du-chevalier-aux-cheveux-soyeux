@@ -1,0 +1,13 @@
+MENU = 0
+PLAYING = 1
+OPTIONS = 2
+PAUSE = 3
+CHOSE_KEYBINDS = 4
+VOLUME = 5
+LOAD = 6
+CHOSE_LANGUAGE = 7
+INVENTORY = 8
+
+current_state = MENU
+
+before_options = 'M'

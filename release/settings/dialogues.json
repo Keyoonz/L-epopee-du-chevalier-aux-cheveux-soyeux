@@ -1,0 +1,204 @@
+{
+	"ENGLISH": {
+		"sirmada": {
+            "0": {
+                "1":"Hello adventurer, I'm Sirmada!",
+                "2":"I came here a long time ago, following the quest of the silky shampoo.",
+                "3":"Anybody in possession of this artefact would be able to get the silkiest hair!",
+                "4":"It's too late for me to get the silkiest hair, but you can still get it!",
+                "5":"The shampoo is guarded by a terrible creature, you will need preparation for the fight.",
+                "6":"Here, take this flasks and, to prove your worth, go kill three slimes!"
+                }, 
+            "1": {
+                "1": "Here, take this healing flasks and, to prove your worth, go kill three slimes!"
+            },
+            "2": {
+                "1": "Good job, you definitely worth this quest!",
+                "2": "With this boots, you're gonna be able to travel far away.",
+                "3": "Now go find the huntress, she has a bow, which is gonna be paramount to fight the creature."
+            },
+            "3": {
+                "1": "Now go find the huntress, she has a bow, which is gonna be paramount to fight the creature."
+            },
+            "4": {
+                "1": "Really nice! You can now fight the creature!",
+                "2": "It's just to the North, go through the portal and prove you worth!"
+            },
+            "5": {
+                "1": "It's just to the North, go through the portal and prove you worth!"
+            },
+            "6": {
+                "1": "Unbelievable! You achieved it!"
+            }
+        },
+        "mathis": {
+            "0": {
+                "1": "Merlin's beard, who dare coming on this lands that are mine?",
+                "2": "Yet another fool searching for the shampoo... When will you all sing a new song?",
+                "3": "Anyway, I bet you are going to ask me for a wand, those which break bones and stones...",
+                "4": "Well be it, you will have your wand, after bringing me some flasks, I got brews to do."
+            },
+            "1": {
+                "1": "Well be it, you will have your wand, after bringing me some flasks, I got brews to do."
+            },
+            "2": {
+                "1": "Thanks so much, but you can keep it, I found some in my basement. Take the wand, go away, and come bother me again only if you have a good reason to."
+            },
+            "3": {
+               "1": "Do you really have a good reason to come?" 
+            }
+        },
+        "althea": {
+            "0": {
+                "1": "Oh, a knight! We don't often see people like you, here...",
+                "2": "What did bring you in this forest?",
+                "3": "A bow? Yes, I can give you one, but you gotta show me what you're able to do.",
+                "4": "Bring me the wand of the wizard, living in the moutain to the West. He won't let it to you for nothing",
+                "5": "Come back with the wand and so we will talk about the bow..."
+            },
+            "1": {
+                "1": "Come back with the wand and so we will talk about the bow..."
+            },
+            "2": {
+                "1": "That's some good job!",
+                "2": "Thing promised thing due: Let's talk about the bow.",
+                "3": "Just kill five goblins, and it's yours."
+            },
+            "3": {
+                "1": "Just kill five goblins, and it's yours."
+            },
+            "4": {
+                "1": "I've seen enough of it: your value is indisputable. Take the bow : it's yours!"
+            },
+            "5": {
+                "1": "I don't get enough time for you, hunt's calling."
+            }
+        },
+        "tah_le_shamp" : {
+            "1": "And the Silky Hair Knight became the Silkiest Hair, superlative that he added himself, because it's cool after all."
+        },
+        "sirmadaquest": {
+            "name": "The silky shampoo",
+            "0": "Talk to Sirmada",
+            "1": "Kill 3 slimes",
+            "2": "Talk to Sirmada",
+            "3": "Find the bow",
+            "4": "Talk to Sirmada",
+            "5": "Kill the boss"
+        },
+        "hunterquest": {
+            "name": "The huntress",
+            "0": "Talk to the huntress",
+            "1": "Find the wand",
+            "2": "Talk to the huntress",
+            "3": "Kill 5 goblins",
+            "4": "Talk to the huntress"
+        },
+        "wizardquest": {
+            "name": "The moutain wizard",
+            "0": "Talk to the wizard"
+        }
+	},
+	"FRENCH": {
+		"sirmada": {
+            "0": {
+                "1":"Bonjour à toi aventurier, je suis Sirmada !",
+                "2":"Je suis arrivé ici il y a bien longtemps, poursuivant la quête du shampoing des cheveux soyeux.",
+                "3":"Quiconque rentre en possession de cet artefact se verra capable d'avoir les cheveux les plus soyeux !",
+                "4":"Il est trop tard pour moi pour avoir les cheveux les plus soyeux mais tu peux encore les avoir toi !",
+                "5":"Le shampoing est gardé par une terrible créature, et il te faudra te préparer pour tenter le combat.",
+                "6":"Tiens, prends ces fioles de soin et pour me prouver que tu es digne de cette qualité capilaire, va tuer 3 slimes !"
+                }, 
+            "1": {
+                "1": "Tiens, prends ces fioles et pour me prouver que tu es digne de cette qualité capilaire, va tuer 3 slimes !"
+            },
+            "2": {
+                "1": "Bravo, tu es effectivement digne de cette quête !",
+                "2": "Avec ces bottes, tu seras capable de parcourir de longues distances.",
+                "3": "Va maintenant trouver la chasseresse, elle détient un arc qui te sera primordial pour affronter la créature."
+            },
+            "3": {
+                "1": "Va maintenant trouver la chasseresse, elle détient un arc, il te sera primordial pour affronter la créature."
+            },
+            "4": {
+                "1": "Excellent ! Tu peux maintenant affronter la créature !",
+                "2": "Elle se trouve au Nord d'ici, passe le portail et prouve ta valeur !"
+            },
+            "5": {
+                "1" : "Elle se trouve au Nord d'ici, passe le portail et prouve ta valeur !"
+            },
+            "6": {
+                "1": "Incroyable ! Tu as réussi !"
+            }
+        },
+        "mathis": {
+            "0": {
+                "1": "Par la barbe de Merlin, qui ose s'aventurer aussi loin dans les montagnes qui sont miennes ?",
+                "2": "Encore un fou à la recherche du shampoing... Mais quand allez vous donc changer de refrain ?",
+                "3": "Je mettrai ma main à couper que vous venez me voir pour quémander un de mes bâtons, ceux qui brisent les os, tout comme la pierre...",
+                "4": "Eh bien soit, vous aurez votre baton, mais avant allez me chercher quelques fioles, j'ai des potions à préparer."
+            },
+            "1": {
+                "1": "Eh bien soit, vous aurez votre baton, mais avant allez me chercher quelques fioles, j'ai des potions à préparer."
+            },
+            "2": {
+                "1": "Je vous remercie grandement, mais gardez les, j'en ai retrouvé à la cave. Prenez le bâton, partez, et ne revenez me déranger qu'en cas de réel besoin."
+            },
+            "3": {
+                "1": "As-tu vraiment une bonne raison de venir ?"
+            }
+        },
+        "althea": {
+            "0": {
+                "1": "Oh, un chevalier ! On ne voit pas souvent des gens comme toi par ici...",
+                "2": "Qu'est-ce qui peut bien t'amener aussi loin dans les bois ?",
+                "3": "Un arc dis-tu ? Oui, je peux t'en proccurer un, mais il te faudra me montrer de quoi tu es capable.",
+                "4": "Ramène moi le bâton magique du sorcier qui vit dans les montagnes à l'Ouest, il ne le cèdera pas pour rien.",
+                "5": "Reviens avec ce bâton et nous reparlerons de l'arc..."
+            },
+            "1": {
+                "1": "Reviens avec ce bâton et nous reparlerons de l'arc..."
+            },
+            "2": {
+                "1": "C'est du beau travail que voici !",
+                "2": "Chose promise chose due : parlons de l'arc.",
+                "3": "Il te suffit de tuer cinq gobelins, et l'arc est à toi."
+            },
+            "3": {
+                "1": "Il te suffit de tuer cinq gobelins, et l'arc est à toi."
+            },
+            "4": {
+                "1": "J'en ai vu assez : ta valeur est indiscutable. Prends l'arc : il est à toi !"
+            },
+            "5": {
+                "1": "Je n'ai pas de temps à te consacrer, la chasse m'attend."
+            }
+        },
+        "tah_le_shamp" : {
+            "1": "Et ainsi le Chevalier aux Cheveux Soyeux trouva le shampoing, et devint le Chevalier aux Cheveux les Plus Soyeux, superlatif rajouté par lui-même parce que c'est cool après tout."
+        },
+        "sirmadaquest": {
+            "name": "Le shampoing soyeux",
+            "0": "Parler à Sirmada",
+            "1": "Tuer 3 slimes",
+            "2": "Parler à Sirmada",
+            "3": "Récupérer l'arc",
+            "4": "Parler à Sirmada",
+            "5": "Tuer le boss"
+        },
+        "hunterquest": {
+            "name": "La chasseresse",
+            "0": "Parler à la chasseresse",
+            "1": "Récupérer le bâton",
+            "2": "Parler à la chasseresse",
+            "3": "Tuer 5 gobelins",
+            "4": "Parler à la chasseresse"
+        },
+        "wizardquest": {
+            "name": "Le sorcier des neiges",
+            "0": "Parler au sorcier",
+            "1": "Récupérer 10 fioles",
+            "2": "Parler au sorcier"
+        }
+	}
+}
